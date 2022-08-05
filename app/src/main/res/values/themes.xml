@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Android_Study_Jams_Compose_Calculator" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="android:statusBarColor" >@color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.Android_Study_Jams_Compose_Calculator.NoActionBar">
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
